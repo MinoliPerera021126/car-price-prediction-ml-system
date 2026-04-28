@@ -1,0 +1,10 @@
+jupyterlab
+pandas
+numpy
+scikit-learn
+requests
+joblib
+kagglehub
+streamlit
+joblib
+flask
