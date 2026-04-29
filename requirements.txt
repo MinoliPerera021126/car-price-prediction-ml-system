@@ -10,3 +10,5 @@ flask
 matplotlib
 seaborn
 category_encoders
+tensorflow
+scikeras
