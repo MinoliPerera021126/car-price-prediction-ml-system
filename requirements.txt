@@ -6,5 +6,6 @@ requests
 joblib
 kagglehub
 streamlit
-joblib
 flask
+matplotlib
+seaborn
