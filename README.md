@@ -127,20 +127,20 @@ The app provides:
 ## 📦 Requirements
 
 ```
-jupyterlab<br/>
-pandas<br/>
-numpy<br/>
-scikit-learn<br/>
-requests<br/>
-joblib<br/>
-kagglehub<br/>
-streamlit<br/>
-flask<br/>
-matplotlib<br/>
-seaborn<br/>
-category_encoders<br/>
-tensorflow<br/>
-scikeras<br/>
+jupyterlab
+pandas
+numpy
+scikit-learn
+requests
+joblib
+kagglehub
+streamlit
+flask
+matplotlib
+seaborn
+category_encoders
+tensorflow
+scikeras
 ```
 
 Install everything with:
